@@ -45,6 +45,11 @@ Sidebar heading:	13px 'Roboto','Helvetica Neue', Arial, Verdana, sans-serif
 14. LearnPress Plugin Elements
 -------------------------------------------------------------------*/
 
+
+
+
+
+
 button.mobx-prev,
 button.mobx-next {
 	background-color: transparent !important;
@@ -66,6 +71,11 @@ body.loaded #loftloader-wrapper .loader-section.section-fade {
 	-ms-animation-fill-mode: forwards;
 	animation-fill-mode: forwards;
 }
+
+
+
+
+
 
 @keyframes slider-up2 {
 	0% {
